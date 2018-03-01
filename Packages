@@ -1,0 +1,20 @@
+Package: com.carstenheinelt.ifile
+Version: 2.2.0-1
+Architecture: iphoneos-arm
+Maintainer: Santo Lewis <santosmall@gmx.co.uk>
+Depends: <bundleids>
+Filename: /Ifile.deb
+Size: 9751882
+MD5sum: 88766f339cc7b150e356331e4594db7b
+SHA1: 3ff2ab2d71d013510c2d7946165719757878a613
+SHA256: 9f8c38312d7676a88507dcac6196261185928c9b38666bab80ac50fcfb8c3c61
+Section: System
+Description: For iPhone, iPod touch, and iPad. 
+
+iFile is a complete file manager and viewer running under user root. iFile gives you full access to your jailbroken device's files, like Finder does on your desktop Mac. iFile is your tool for advanced management and customization of files on your device.
+
+iFile allows fast navigation through the iPhone file system in multiple tabs. You can directly view files of many types, including images, movies, sound, text, HTML, web archives, Microsoft and Apple iWork files, PDFs, and compressed formats.
+
+iFile lets you handle software files and multimedia in flexible ways, including:
+Author: Carsten Heinelt <ifile@iphone.heinelt.eu <ifile@iphone.heinelt.eu>
+Name: Ifile 2.2

@@ -1,0 +1,8 @@
+Origin: Santo Lewis Repo
+Label: Santo Lewis Repo
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Santo Lewis Repo
